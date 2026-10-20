@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">করণীয় তালিকা</string>
+    <string name="title">আমার করণীয় তালিকা</string>
+    <string name="new_task">নতুন কাজ লিখুন</string>
+    <string name="add_task">কাজ যোগ করুন</string>
+    <string name="delete_task">কাজ মুছুন</string>
+    <string name="empty">এখনও কোনো কাজ নেই। উপরে একটি যোগ করুন!</string>
+</resources>
