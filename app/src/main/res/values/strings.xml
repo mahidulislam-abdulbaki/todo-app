@@ -6,4 +6,38 @@
     <string name="add_task">কাজ যোগ করুন</string>
     <string name="delete_task">কাজ মুছুন</string>
     <string name="empty">এখনও কোনো কাজ নেই। উপরে একটি যোগ করুন!</string>
-</resources>
+
+    <string name="recycle_bin">রিসাইকেল বিন</string>
+    <string name="settings">সেটিংস</string>
+    <string name="back">পিছনে যান</string>
+
+    <string name="bin_empty">রিসাইকেল বিন খালি আছে।</string>
+    <string name="bin_note_days">এখানকার কাজ %d দিন পরে নিজে থেকে মুছে যাবে।</string>
+    <string name="bin_note_never">স্বয়ংক্রিয়ভাবে মুছে ফেলা বন্ধ আছে। আপনি নিজে মুছলে তবেই যাবে।</string>
+    <string name="expires_in_days">%d দিন পরে মুছে যাবে</string>
+    <string name="expires_soon">২৪ ঘণ্টার মধ্যে মুছে যাবে</string>
+    <string name="no_auto_delete">স্বয়ংক্রিয়ভাবে মুছবে না</string>
+
+    <string name="select_all">সব নির্বাচন করুন</string>
+    <string name="clear_selection">নির্বাচন বাতিল</string>
+    <string name="selected_count">%d টি নির্বাচিত</string>
+    <string name="restore">পুনরুদ্ধার</string>
+    <string name="delete_forever">চিরতরে মুছুন</string>
+    <string name="empty_bin">বিন খালি করুন</string>
+
+    <string name="confirm_title">চিরতরে মুছবেন?</string>
+    <string name="confirm_selected">নির্বাচিত %d টি কাজ চিরতরে মুছে যাবে। এটি আর ফেরানো যাবে না।</string>
+    <string name="confirm_all">বিনের সব %d টি কাজ চিরতরে মুছে যাবে। এটি আর ফেরানো যাবে না।</string>
+    <string name="yes_delete">হ্যাঁ, মুছুন</string>
+    <string name="cancel">বাতিল</string>
+
+    <string name="settings_use_bin">রিসাইকেল বিন ব্যবহার করুন</string>
+    <string name="settings_use_bin_desc">চালু থাকলে মুছে ফেলা কাজ আগে বিনে যাবে। বন্ধ থাকলে সঙ্গে সঙ্গে চিরতরে মুছে যাবে।</string>
+    <string name="settings_auto_delete">স্বয়ংক্রিয়ভাবে মুছে ফেলার সময়</string>
+    <string name="current_setting">বর্তমান: %s</string>
+    <string name="days_fmt">%d দিন</string>
+    <string name="never">কখনো না</string>
+    <string name="custom_days">নিজের দিন সংখ্যা (১–৩৬৫)</string>
+    <string name="apply">প্রয়োগ করুন</string>
+</resou
+    rces>
