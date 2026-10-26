@@ -6,4 +6,37 @@
     <string name="add_task">Add task</string>
     <string name="delete_task">Delete task</string>
     <string name="empty">No tasks yet. Add one above!</string>
+
+    <string name="recycle_bin">Recycle bin</string>
+    <string name="settings">Settings</string>
+    <string name="back">Go back</string>
+
+    <string name="bin_empty">The recycle bin is empty.</string>
+    <string name="bin_note_days">Tasks here are deleted automatically after %d days.</string>
+    <string name="bin_note_never">Auto-delete is off. Tasks are removed only when you delete them.</string>
+    <string name="expires_in_days">Deleted in %d days</string>
+    <string name="expires_soon">Deleted within 24 hours</string>
+    <string name="no_auto_delete">Will not auto-delete</string>
+
+    <string name="select_all">Select all</string>
+    <string name="clear_selection">Clear selection</string>
+    <string name="selected_count">%d selected</string>
+    <string name="restore">Restore</string>
+    <string name="delete_forever">Delete forever</string>
+    <string name="empty_bin">Empty bin</string>
+
+    <string name="confirm_title">Delete forever?</string>
+    <string name="confirm_selected">%d selected tasks will be deleted permanently. This cannot be undone.</string>
+    <string name="confirm_all">All %d tasks in the bin will be deleted permanently. This cannot be undone.</string>
+    <string name="yes_delete">Yes, delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="settings_use_bin">Use recycle bin</string>
+    <string name="settings_use_bin_desc">When on, deleted tasks go to the bin first. When off, they are deleted permanently right away.</string>
+    <string name="settings_auto_delete">Auto-delete after</string>
+    <string name="current_setting">Current: %s</string>
+    <string name="days_fmt">%d days</string>
+    <string name="never">Never</string>
+    <string name="custom_days">Custom number of days (1-365)</string>
+    <string name="apply">Apply</string>
 </resources>
